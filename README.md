@@ -1,1 +1,1 @@
-<h6>CodePipeline-service</h6>
+<h6>Codepipeline-service</h6>
